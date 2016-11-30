@@ -2,3 +2,20 @@
   background-color: #fff;
   border: 0px;
 }
+header{
+    background-image: url("../img/jumbotronbackground.jpg");
+    /*background-color: #ccc;*/
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+    position: absolute
+}
+header .text{
+    padding: 3% 3% 3% 0;
+}
+main article img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
